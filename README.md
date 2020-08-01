@@ -17,12 +17,12 @@ You should only install one of these two options (light or dark, depending on yo
 ### Light (Normal/Default) Notepad++ Theme
 
 #### EScriptThemeLight.xml
-  Under the `Language` dropdown menu, press `Define your language...`, from there press `Import`, then navigate to and select `EScriptThemeLight.xml`. The language will now be available under the `Language` dropdown called `Endless Sky Data File` and all `*.txt` files you load will automatically have the ES syntax highlighting applied.
+  Under the `Language` menu, select `User Defined Language` -> `Define your language...`. The `User Defined Language` dialog should appear. Press  the `Import...` button, then navigate to and select `EScriptThemeLight.xml`. After import, select the theme called `Endless Sky Data` and then click the `Save As...` button and call it `Endless Sky Data File`. You can now delete the imported `Endless Sky Data` language. The syntax highlighting will now be available under the `Language` dropdown called `Endless Sky Data File` and all `.txt` files you load will automatically have the syntax highlighting applied.
 
 ### Dark Notepad++ Theme
 
 #### EScriptThemeDark.xml
-  Under the `Language` dropdown menu, press `Define your language...`, from there press `Import`, then navigate to and select `EScriptThemeDark.xml`. The language will now be available under the `Language` dropdown called `Endless Sky Data File` and all `*.txt` files you load will automatically have the ES syntax highlighting applied.
+  Under the `Language` menu, select `User Defined Language` -> `Define your language...`. The `User Defined Language` dialog should appear. Press  the `Import...` button, then navigate to and select `EScriptThemeDark.xml`. After import, select the theme called `Endless Sky Data` and then click the `Save As...` button and call it `Endless Sky Data File`. You can now delete the imported `Endless Sky Data` language. The syntax highlighting  will now be available under the `Language` dropdown called `Endless Sky Data File` and all `.txt` files you load will automatically have the syntax highlighting applied.
   
 #### Default Dark theme.xml
   Under the `Settings` dropdown menu, go to `Import` > `Import style theme(s)...`, then navigate to and select `Default Dark theme.xml`. Go back to the `Settings` dropdown, select `Style Configurator`, and under the Select Theme dropdown menu select the Default Dark theme option. Save & Close and you're all set. As long as you like dark themes. Otherwise, use the Light Theme version above.
